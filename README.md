@@ -36,7 +36,7 @@ API_TOKEN = "YOUR_SNYK_API_TOKEN"
 
 # Replace with your specific Issues endpoint
 # Example structure:
-# "[https://api.snyk.io/rest/orgs/](https://api.snyk.io/rest/orgs/){ORG_ID}/issues?version=2024-01-23&limit=50"
+"[https://api.snyk.io/rest/orgs/](https://api.snyk.io/rest/orgs/){ORG_ID}/issues?version=2024-01-23&limit=50"
 BASE_URL = "YOUR_FULL_API_ENDPOINT_URL"
 
 
